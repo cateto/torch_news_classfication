@@ -3,6 +3,8 @@
 # KoBERT-news-classfication
 
 - KoBERT를 이용한 언론 주제 분류(Document Classfication)
+- **현재 모델 업로드 안되있음**
+- u2skind@gmail.com
 
 
 
